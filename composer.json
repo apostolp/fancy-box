@@ -1,5 +1,5 @@
 {
-    "name": "newerton/fancyBox",
+    "name": "newerton/fancy-box",
     "type": "library",
     "description": "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages",
     "keywords": ["jquery", "fancyapps", "fancybox", "gallery"],
